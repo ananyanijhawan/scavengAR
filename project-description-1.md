@@ -6,7 +6,7 @@
 * [Devin Hemachandra]() - hemachdp@mail.uc.edu
 
 ## Faculty Advisor
-* <advisor name> - <advisor email>
+* [advisor name] - [advisor email]
 
 ## Background Description
 As more and more teenagers and young adults are becoming addicted to their screens, there is an increasing need of applications that take people outside their homes and have them socialize with one another. Our application, ScavengAR, is a solution to this.
@@ -19,6 +19,7 @@ There are very few apps that allow us to truly engage with our environment in a 
 ## Inadequacy of Current Solutions
 There are two types of applications that attempt to solve this problem:
 1. **Fitness Tracking Applications:** These apps are generally boring and simply provide an interface for tracking your progress. They may include incentives but fail to engage for long.
+
 2. **Location-Based Games:** Apps such as PokemonGo and Ingress are excellent implementations that solve this problem, but get repetitive after a while and are unable to branch out to all audiences, as not everyone is familiar with the details of the Pokemon world. A more general scavenger hunt application would reach an audience with a larger age range, and can be personalized according to location.
 
 ## Background Skills and Interest
