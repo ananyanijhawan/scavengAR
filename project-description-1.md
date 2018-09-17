@@ -3,10 +3,10 @@
 ## Team Members
 * [Ananya Nijhawan](https://github.com/ananyanijhawan/CS5001/blob/master/Assignment1.md) - nijhawaa@mail.uc.edu
 * [Rishabh Ravindra](https://github.uc.edu/ravindrh/CS5001/blob/master/README.md) - ravindrh@mail.uc.edu
-* [Devin Hemachandra]() - hemachdp@mail.uc.edu
+* [Devin Hemachandra](https://github.com/Devinhc) - hemachdp@mail.uc.edu
 
 ## Faculty Advisor
-* <advisor name> - <advisor email>
+* [advisor name] - [advisor email]
 
 ## Background Description
 As more and more teenagers and young adults are becoming addicted to their screens, there is an increasing need of applications that take people outside their homes and have them socialize with one another. Our application, ScavengAR, is a solution to this.
