@@ -1,4 +1,4 @@
-# ScavengAR - Project Idea 1
+# Voice Assistant for deriving insights from large datasets - Project Idea 
 
 ## Team Members
 * [Ananya Nijhawan](https://github.com/ananyanijhawan/CS5001/blob/master/Assignment1.md) - nijhawaa@mail.uc.edu
@@ -6,17 +6,19 @@
 * [Devin Hemachandra](https://github.com/Devinhc) - hemachdp@mail.uc.edu
 
 ## Faculty Advisor
-* [advisor name] - [advisor email]
+* [Raj Bhatnagar] - [Raj.Bhatnagar@uc.edu]
 
-## Background Description
+## Background Description - TODO
+
+
 As more and more teenagers and young adults are becoming addicted to their screens, there is an increasing need of applications that take people outside their homes and have them socialize with one another. Our application, ScavengAR, is a solution to this.
 
 ScavengAR is a scavenger hunt application that enables people to explore new places around them, and encourages collaboration and healthy competition. With a story-based mode and interactive Augmented Reality features, it gets you out and about, and has something for everyone.
 
 ## Problem Statement
-There are very few apps that allow us to truly engage with our environment in a way that promotes health and fitness.
+There are no voice based apps that allow you to get insights from large datasets in a conversational manner. 
 
-## Inadequacy of Current Solutions
+## Inadequacy of Current Solutions - TODO
 There are two types of applications that attempt to solve this problem:
 1. **Fitness Tracking Applications:** These apps are generally boring and simply provide an interface for tracking your progress. They may include incentives but fail to engage for long.
 
@@ -25,9 +27,9 @@ There are two types of applications that attempt to solve this problem:
 ## Background Skills and Interest
 **Background Skills:** We have experience in full stack web development, machine learning, natural language processing, and mobile app development.
 
-**Interest:** We are interested in adding to our skillset and are looking forward to dabbling in augmented reality and diving into mobile app development.
+**Interest:** We are interested in adding to our skillset and are looking forward to dabbling in voice user interfaces and processing large datasets
 
-## Approach, Goals and Expectations
+## Approach, Goals and Expectations - TODO
 **Primary Goals**
 1. Develop a mobile application with an engaging scavenger hunt experience.
 2. Implement a login system and a database to enable storage of user and location-specific information.
