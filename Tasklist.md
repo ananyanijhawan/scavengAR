@@ -1,13 +1,13 @@
 # Task List
 This list comprises a list of tasks we will complete as part of our project.
 
-| Task # | Task Description | Category |Assignee |
+| # | Task | Task Lead | Category |
 | ------ | ---------------- | -------- | -------- |
-| 1 | Develop Master infrastructure | Master Service |  Kurt Lewis |
-| 2 | Design scheduling system for assigning workers to projects | Master Service | Kurt Lewis |
-| 3 | Implement API for accepting projects | Master Service | Kurt Lewis |
-| 4 | Develop system for automatically deploying projects | Master Service | Kurt Lewis |
-| 5 | Test master service functionality | Master Service | Kurt Lewis |
+| 1 | Research viable datasets for querying and processing |  Devin | Web App
+| 2 | Setup Node.js server and the host machine. | Devin | Web App
+| 3 | Develop a web application to upload datasets in all supported formats. | Devin | Web App |
+| 4 | Accept cube specifications through the web application | Devin | Web App |
+| 5 | Build interface for querying and receiving results through the web application. |Devin | Web App|
 | 6 | Document instructions for use | Master Service | Kurt Lewis |
 | 11 | Research distributed computing project architecture | Project Service | Laura Tebben |
 | 12 | Create a sample project | Project Service | Laura Tebben |
