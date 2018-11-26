@@ -1,7 +1,7 @@
 # Task List
 
-| Number | Task | Primary Member |
-|:------:|:----:|:--------------:|
+| Number | Task | Task Lead |
+|:------:|:-----|:---------:|
 |1| Research viable datasets for querying and processing. |Devin|
 |2| Setup Node.js server and the host machine. |Devin|
 |3| Develop a web application to upload datasets in all supported formats. |Devin|
