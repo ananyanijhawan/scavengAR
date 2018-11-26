@@ -1,5 +1,4 @@
-# Task List
-This list comprises a list of tasks we will complete as part of our project.
+## Task List
 
 | # | Task | Task Lead | Category |
 | ------ | ---------------- | -------- | -------- |
@@ -8,12 +7,12 @@ This list comprises a list of tasks we will complete as part of our project.
 | 3 | Develop a web application to upload datasets in all supported formats. | Devin | Web App |
 | 4 | Accept cube specifications through the web application | Devin | Web App |
 | 5 | Build interface for querying and receiving results through the web application. |Devin | Web App|
-| 6 | Document instructions for use | Master Service | Kurt Lewis |
-| 11 | Research distributed computing project architecture | Project Service | Laura Tebben |
-| 12 | Create a sample project | Project Service | Laura Tebben |
-| 13 | Design sample project data model | Project Service | Laura Tebben|
-| 14 | Design sample project worker scheduling algorithm | Project Service | Laura Tebben |
-| 15 | Test project service funcionality | Project Service | Laura Tebben |
+| 6 | Parse natural language queries using POS tagging. | Ananya | Query and Response |
+| 7 | Write algorithms to convert parsed queries to ANSI SQL | Ananya | Query and Response |
+| 8 | Train datasets to recognize class hierarchies and synonyms | Ananya | Query and Response |
+| 9 | Write algorithms to convert SQL results into natural language responses.| Ananya | Query and Response|
+| 10 | Test the natural language processing architecture using the gold standard. | Ananya | Query and Response |
+| 15 | Test project service funcionality | Ananya | Query and Response |
 | 21 | Research executing arbitrary code in browser | Worker | Zak Sang |
 | 22 | Verify performance characteristics of worker nodes | Worker | Zak Sang |
 | 23 | Create worker node for sample project | Worker | Zak Sang |
