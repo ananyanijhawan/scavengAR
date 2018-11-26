@@ -1,7 +1,7 @@
 ## Task List
 
 | # | Task | Task Lead | Category | Est. Hours
-| ------ | ---------------- | -------- | -------- |
+| ------ | ---------------- | -------- | -------- | -------- |
 | 1 | Research viable datasets for querying and processing |  Devin | Web App | 1 |
 | 2 | Setup Node.js server and the host machine. | Devin | Web App | 1 |
 | 3 | Develop a web application to upload datasets in all supported formats. | Devin | Web App | 1 |
