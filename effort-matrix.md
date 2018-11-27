@@ -17,3 +17,5 @@
 | 13 | Test the data processing architecture by building small data cubes and querying them. | Rishabh | Data Processing | 10 |
 | 14 | Build a pipeline for automating the data cube building process. | Rishabh | Data Processing | 10 |
 | 15 | Design the query and data architecture and obtain approval from Dr. Bhatnagar. | Rishabh | Data Processing | 5 |
+
+![Effort Percentages by Task](https://github.com/ananyanijhawan/senior-design/blob/master/effort%20matrix.png "Effort Percentages by Task")
