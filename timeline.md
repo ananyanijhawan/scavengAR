@@ -1,7 +1,7 @@
 # Timeline
 
-| Number | Task | Start Date | End Date |
-|:------:|:-----|:----------:|:--------:|
+| # | Task | Start Date | End Date |
+|:---:|:-----|:----------:|:--------:|
 |15| Design the query and data architecture and obtain approval from Dr. Bhatnagar. | 5 Nov 2018 | 14 Nov 2018 |
 |1| Research viable datasets for querying and processing. | 3 Dec 2018 | 24 Dec 2018 |
 |2| Setup Node.js server and the host machine. | 14 Jan 2019 | 18 Jan 2019 |
