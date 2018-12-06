@@ -1,4 +1,4 @@
-## Effort Matrix
+# Effort Matrix
 
 | Number | Task | Task Lead | Category | Est. Hours |
 |:------:|:---- |:---------:|:--------:|:----------:|
